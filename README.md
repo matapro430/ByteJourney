@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="BYTEJOURNEY/../img/logo_matapro.png" alt="Nombre del Banner o Logo" width="50%">
+</p>
+
+---
+
 # Mis Apuntes de Programación Web
+
 
 Bienvenido al Proyecto de Apuntes, donde encontrarás información detallada sobre diversos temas. Aquí encontrarás una recopilación de mis notas sobre HTML, CSS, JavaScript y muchas mas herramientas. Siéntete libre de explorar, contribuir y aprender junto a mí.  
  Este README te guiará a través de las características de Markdown utilizadas en este proyecto.
@@ -66,3 +73,8 @@ Este proyecto está bajo la licencia [MIT](LICENSE). Siéntete libre de utilizar
 ---
 
 **¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en [contactarme](mailto:ortizinbox1@gmail.com).**
+
+
+<p align="right">
+  <img src="BYTEJOURNEY/../img/logo_matapro2.png" alt="Nombre del Banner o Logo" width="40%">
+</p>
