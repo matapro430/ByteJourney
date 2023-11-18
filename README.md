@@ -1,6 +1,7 @@
-<p align="center">
+<p  align="center">
   <img src="BYTEJOURNEY/../img/logo_matapro.png" alt="Nombre del Banner o Logo" width="50%">
 </p>
+
 
 ---
 
@@ -20,9 +21,9 @@ Bienvenido al Proyecto de Apuntes, donde encontrarás información detallada sob
   - [Estructura del Repositorio](#estructura-del-repositorio)
     - [- **La terminal**](#--la-terminal)
     - [Contenido Destacado:](#contenido-destacado)
-    - [- **tema 2**:](#--tema-2)
-    - [- **tema 2**:](#--tema-2-1)
-    - [- **tema 2**:](#--tema-2-2)
+    - [- **próximamente**:](#--próximamente)
+    - [- **próximamente**:](#--próximamente-1)
+    - [- **próximamente**:](#--próximamente-2)
   - [Sobre el Autor](#sobre-el-autor)
   - [Licencia](#licencia)
 
@@ -54,12 +55,12 @@ Bienvenido a los Apuntes de Terminal
 - Trucos Avanzados: Alias, atajos, y otros consejos para mejorar tu flujo de trabajo.
 - Personalización: Aprende a personalizar tu entorno de línea de comandos para que se adapte a tus necesidades.
 
-### - **[tema 2](css/README.md)**: 
+### - **[próximamente](css/README.md)**:  
 Información acerca de hojas de estilo en cascada, vital para el diseño y la presentación de páginas web.
 
-### - **[tema 2](css/README.md)**: 
+### - **[próximamente](css/README.md)**: 
 Información acerca de hojas de estilo en cascada, vital para el diseño y la presentación de páginas web.
-### - **[tema 2](css/README.md)**: 
+### - **[próximamente](css/README.md)**: 
 Información acerca de hojas de estilo en cascada, vital para el diseño y la presentación de páginas web.
 
 ## Sobre el Autor
@@ -71,6 +72,8 @@ Hola, soy [Tu claudio ortiz], un apasionado de la programación web. Este reposi
 Este proyecto está bajo la licencia [MIT](LICENSE). Siéntete libre de utilizar este contenido como desees.
 
 ---
+Tu Viaje de Aprendizaje:
+"Emprende tu viaje de aprendizaje en programación web. Desde conceptos básicos hasta técnicas avanzadas, estamos aquí para guiarte."
 
 **¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en [contactarme](mailto:ortizinbox1@gmail.com).**
 
