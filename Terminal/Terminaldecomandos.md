@@ -22,7 +22,7 @@ ____
     - [**Mover y Renombrar: `mv`**](#mover-y-renombrar-mv)
 - [APUNTES](#apuntes)
     - [Definicion](#definicion)
-    - [\***\*Comandos básicos\*\***](#comandos-básicos)
+    - [**Comandos básicos**](#comandos-básicos)
     - [Comando man](#comando-man)
     - [Comando ls](#comando-ls)
     - [Comando pwd](#comando-pwd)
@@ -185,7 +185,7 @@ mv archivo1 archivo2 ... directorio_destino
 
 La terminal de comandos es una interfaz de texto que te permite comunicarte con tu computadora utilizando comandos escritos en lenguaje de texto. En lugar de hacer clic en iconos o menús gráficos, puedes escribir instrucciones específicas para realizar tareas como copiar archivos, mover carpetas o ejecutar programas. Es una forma eficiente de interactuar con tu computadora utilizando texto en lugar de acciones gráficas.
 
-### \***\*Comandos básicos\*\***
+### **Comandos básicos**
 
 ```bash
 # Lista de comandos y trucos en la terminal

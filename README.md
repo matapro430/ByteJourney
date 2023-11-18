@@ -27,6 +27,7 @@ Bienvenido al Proyecto de Apuntes, donde encontrarás información detallada sob
   - [Sobre el Autor](#sobre-el-autor)
   - [Licencia](#licencia)
 
+
  ## Sobre el Proyecto
 
 Este proyecto tiene como objetivo proporcionar apuntes claros y concisos sobre diversos temas, desde programación hasta ciencias y más. Siéntete libre de contribuir y mejorar la calidad de los apuntes.
