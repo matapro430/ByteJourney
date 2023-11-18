@@ -1,10 +1,12 @@
+<p>
+  <img src="BYTEJOURNEY/../../img/logo_matapro.png" alt="Nombre del Banner o Logo" width="8%">
+</p>
+
+
+____
+
 # Terminal de comandos
 
-Autor/Fuente: varios
-Estatus: Estudiando
-Resumen: No
-Modificado: 16 de noviembre de 2023 10:22
-Creado: 16 de noviembre de 2023 6:08
 
 - **Índice del Tema, Curso o Libro:**
 - [Terminal de comandos](#terminal-de-comandos)
@@ -43,6 +45,8 @@ Creado: 16 de noviembre de 2023 6:08
 ## RESUMEN DE: Terminal de comandos
 
 ---
+
+
 
 # IDEAS
 
@@ -173,6 +177,7 @@ mv origen destino
 ```bash
 mv archivo1 archivo2 ... directorio_destino
 ```
+
 
 # APUNTES
 
@@ -519,7 +524,7 @@ bashCopy code
 rm -i archivo.txt
 
 ```
-
+<div/>
 ---
 
 # RESUMEN
